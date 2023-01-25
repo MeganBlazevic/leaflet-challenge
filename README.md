@@ -14,6 +14,9 @@ We are asked to visualize the eqarthquake data sete provided by the USGS GeoJSON
 
 We got to choose the dataset from the United States Geological Survey website. I choose to lok at the data for all earthquakes over the past 7 days. This data set is updated each minute. 
 
+![earthquakeMap7days](https://user-images.githubusercontent.com/113635771/214460428-fc146400-6a59-4c44-b91c-a3fc0206943b.png)
+![dataMarker](https://user-images.githubusercontent.com/113635771/214460441-7f352802-2835-4ff8-aa7a-b5c7d2e7a7be.png)
+
 ## Part 2 | Gather and Plot More Data (Bonus)
 This portion was not completed during the project.  
 
